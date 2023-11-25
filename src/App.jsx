@@ -28,9 +28,9 @@ const siteProps = {
   title: "Backend Developer",
   email: "rathodparmeshawr4321@gmail.com",
   gitHub: "promiseer",
-  instagram: "@parmeshwar.me",
+  instagram: "parmeshwar.me",
   linkedIn: "promiser",
-  medium: "promiser",
+  medium: "parmeshwar",
   twitter: "promiseeer",
   youTube: "promiser",
 };
